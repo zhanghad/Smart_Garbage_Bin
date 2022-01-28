@@ -1,0 +1,15 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.idea/
+**/.virtual_documents/
+**/.vscode/
+
+*.csv
+*.xlsx
+*.log
+*.pkl
+*.zip
+*.json
+*.npy
+*.exe
+*.data
